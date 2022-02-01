@@ -6,6 +6,9 @@
 #home p {
     margin: 2px 19px;
 }
+section img{
+    height: 300px;
+}
 #home .important-p {
     font-size: 1.2rem;
     margin: 2px 8px;

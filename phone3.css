@@ -1,0 +1,16 @@
+
+#navbar ul{
+    margin: 5px -19px;
+
+}
+#home p {
+    margin: 2px 19px;
+}
+#home .important-p {
+    font-size: 1.2rem;
+    margin: 2px 8px;
+}
+#services .box img {
+    width: 250px;
+    height: 200px;
+}

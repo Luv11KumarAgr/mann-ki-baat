@@ -1,0 +1,16 @@
+
+#services .box img{
+    width: 350px;
+    height: 200px;
+}
+.h-secondary{
+    font-size:1rem;
+    text-align: center;
+}
+#home p{
+    margin: 2px 100px;
+}
+#home .important-p{
+    font-size: 1.2rem;
+    margin: 2px 100px;
+}
